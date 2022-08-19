@@ -14,12 +14,12 @@ git help <comandos>*
 
 #### Configura el email
 ```
-git config --global user.email elliotgaramendi@gmail.com
+git config --global user.email menachojoel@gmail.com
 ```
 
 #### Configura el usuario
 ```
-git config --global user.name ElliotXLeo
+git config --global user.name joelmenacho
 ```
 
 #### Lista la configuración del git
